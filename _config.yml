@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Ann Chan
+tagline:          From Sometime Somewhere
 url:              http://getpoole.com
 paginate:         1
 baseurl:          http://annchanyt.github.io/poole/
