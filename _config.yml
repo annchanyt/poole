@@ -7,14 +7,14 @@ permalink:        pretty
 
 # Setup
 title:            Ann Chan
-tagline:          From Sometime Somewhere
+tagline:          Thoughts 
 url:              http://getpoole.com
 paginate:         1
 baseurl:          http://annchanyt.github.io/poole/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:          Ann Chan
+  url:            https://twitter.com/annchanyt
+  email:          annchanyt@gmail.com
 
 # Custom vars
 version:          1.0.0
